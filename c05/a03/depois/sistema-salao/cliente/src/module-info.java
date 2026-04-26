@@ -1,3 +1,0 @@
-module cliente {
-  requires agendador;
-}

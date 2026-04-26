@@ -1,3 +1,0 @@
-module agendador {
-  exports agendamento;
-}
